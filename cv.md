@@ -46,4 +46,4 @@ else {
 ***
 ## Education:  
 
-I am self-educating using YouTube and https://learn.javascript.ru
+I am self-educating using YouTube and [cool js tutorial](https://learn.javascript.ru)
