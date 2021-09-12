@@ -267,7 +267,7 @@ header {
 	height: 70px;
 	top: 0px;
 	left: 70px;
-	background: url(/img/love-hand-drawn-heart-symbol-outline.png) 0 0/contain no-repeat;
+	background: url(../img/love-hand-drawn-heart-symbol-outline.png) 0 0/contain no-repeat;
 	z-index: 1;
 }
 
@@ -408,27 +408,27 @@ header {
 }
 
 .soc__item_1 {
-	background: url(/img/icon_1.png) 0 0/contain no-repeat;
+	background: url(../img/icon_1.png) 0 0/contain no-repeat;
 }
 
 .soc__item_1:hover {
-	background: url(/img/icon_1_2.png) 0 0/contain no-repeat;
+	background: url(../img/icon_1_2.png) 0 0/contain no-repeat;
 }
 
 .soc__item_2 {
-	background: url(/img/icon_2.png) 0 0/contain no-repeat;
+	background: url(../img/icon_2.png) 0 0/contain no-repeat;
 }
 
 .soc__item_2:hover {
-	background: url(/img/icon_2_2.png) 0 0/contain no-repeat;
+	background: url(../img/icon_2_2.png) 0 0/contain no-repeat;
 }
 
 .soc__item_3 {
-	background: url(/img/icon_3.png) 0 0/contain no-repeat;
+	background: url(../img/icon_3.png) 0 0/contain no-repeat;
 }
 
 .soc__item_3:hover {
-	background: url(/img/icon_3_2.png) 0 0/contain no-repeat;
+	background: url(../img/icon_3_2.png) 0 0/contain no-repeat;
 }
 
 .hello__border {
@@ -539,7 +539,7 @@ header {
 	height: 225px;
 	margin: 0px 100px 0px 40px;
 
-	background: url(/img/myphoto.jpg) 0 0/cover no-repeat;
+	background: url(../img/myphoto.jpg) 0 0/cover no-repeat;
 	border-radius: 90px;
 	-webkit-box-shadow: 40px -20px 0px #7879F1, -40px -20px 0px #F178B6;
 	box-shadow: 40px -20px 0px #7879F1, -40px -20px 0px #F178B6;
@@ -552,7 +552,7 @@ header {
 	min-width: 185px;
 	height: 225px;
 	
-	background: url(/img/myphoto_2.jpg) 0 0/cover no-repeat;
+	background: url(../img/myphoto_2.jpg) 0 0/cover no-repeat;
 	border-radius: 90px;
 	opacity: 0;
 	
@@ -1326,7 +1326,7 @@ footer {
 	height: 30px;
 	width: 70px;
 
-	background: url(/img/rs_school_js.svg) 0 0/contain no-repeat;
+	background: url(../img/rs_school_js.svg) 0 0/contain no-repeat;
 }
 
 @media (max-width: 992.98px) {
@@ -1385,7 +1385,7 @@ footer {
 	height: 30px;
 	width: 30px;
 
-	background: url(/img/gh-2.png) 0 0/contain no-repeat;
+	background: url(../img/gh-2.png) 0 0/contain no-repeat;
 }
 
 @media (max-width: 992.98px) {
@@ -1403,7 +1403,7 @@ footer {
 
 	height: 50px;
 	width: 50px;
-	background: url(/img/right-arrow-direction.png) 0 0/contain no-repeat;
+	background: url(../img/right-arrow-direction.png) 0 0/contain no-repeat;
 
 	opacity: 0.5;
 }
