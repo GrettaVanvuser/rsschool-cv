@@ -503,7 +503,7 @@ header {
 	min-width: 100%;
 	-webkit-box-pack: justify;
 	-ms-flex-pack: justify;
-	ustify-content: space-between;
+	justify-content: space-between;
 }
 
 @media (max-width: 767.98px) {
@@ -945,7 +945,7 @@ header {
 	margin: 0px;
 }
 
-@media (max-width: 992.98px) {
+@media (max-width: 767.98px) {
 	.leng__item {
 		font-size: 15px;
 	}
@@ -1002,7 +1002,7 @@ header {
 	color: #5D5FEF;
 }
 
-@media (max-width: 992.98px) {
+@media (max-width: 767.98px) {
 	.work__text {
 		font-size: 15px;
 	}
@@ -1147,7 +1147,7 @@ header {
 	margin: 0px;
 }
 
-@media (max-width: 992.98px) {
+@media (max-width: 767.98px) {
 	.contacts__item {
 		font-size: 15px;
 	}
@@ -1218,7 +1218,7 @@ header {
 	color: #FFFFFF;
 }
 
-@media (max-width: 992.98px) {
+@media (max-width: 767.98px) {
 	.education__text {
 		font-size: 15px;
 	}
